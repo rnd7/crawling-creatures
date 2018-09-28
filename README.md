@@ -16,6 +16,7 @@ npm start
 ## Usage
 The user interface is almost non existent... You can manipulate the scene using keyboard commands. Move point to check which is selected.
 
+```
 ?: toggle Info
 Space: toggle Pause
 m: toggle Mask Mode
@@ -27,6 +28,7 @@ PageUp: prev Point
 PageDown: next Point
 ArrowKeys: move Point
 Shift + ArrowKeys: move Point faster
+```
 
 ## Screenshot
 
